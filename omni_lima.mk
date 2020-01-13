@@ -11,7 +11,7 @@ $(call inherit-product, $(LOCAL_PATH)/device.mk)
 PRODUCT_BRAND := motorola
 PRODUCT_DEVICE := lima
 PRODUCT_MANUFACTURER := motorola
-PRODUCT_NAME := lineage_lima
+PRODUCT_NAME := omni_lima
 PRODUCT_MODEL := motorola one macro
 
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
