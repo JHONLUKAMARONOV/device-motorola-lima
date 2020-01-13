@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_lima.mk
+    $(LOCAL_DIR)/omni_lima.mk
